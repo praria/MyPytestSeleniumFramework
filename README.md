@@ -1,11 +1,11 @@
 # MyPytestSeleniumFramework
 
-This selenium Python Test Automation Framework was built in order to test the webpage elements and the end to end tesing on the following pactice websites:
-https://rahulshettyacademy.com/angularpractice/
-https://rahulshettyacademy.com/AutomationPractice/
-https://rahulshettyacademy.com/seleniumPractise/#/
+# This selenium Python Test Automation Framework was built in order to test the webpage elements and the end to end tesing on the following pactice websites:
+* https://rahulshettyacademy.com/angularpractice/
+* https://rahulshettyacademy.com/AutomationPractice/
+* https://rahulshettyacademy.com/seleniumPractise/#/
 
-This test automation framework design plan constis of the follwing:
+#This test automation framework design plan constis of the follwing:
 * Pytest Unit Testing Framework
 * Logging and HTML reports
 * Page Object Design Pattern
