@@ -4,7 +4,7 @@
 
 * https://rahulshettyacademy.com/angularpractice/
 
-*This test automation framework design plan constists of the followings:
+* This test automation framework design plan constists of the followings:
 
 * Pytest Unit Testing Framework
 * Logging and HTML reports
