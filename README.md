@@ -2,8 +2,6 @@
 
 # This selenium Python Test Automation Framework was built in order to test the webpage elements and the end to end tesing on the following pactice websites:
 * https://rahulshettyacademy.com/angularpractice/
-* https://rahulshettyacademy.com/AutomationPractice/
-* https://rahulshettyacademy.com/seleniumPractise/#/
 
 #This test automation framework design plan constists of the followings:
 * Pytest Unit Testing Framework
