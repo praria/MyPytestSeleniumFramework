@@ -5,7 +5,7 @@
 * https://rahulshettyacademy.com/AutomationPractice/
 * https://rahulshettyacademy.com/seleniumPractise/#/
 
-#This test automation framework design plan constis of the follwing:
+#This test automation framework design plan constists of the followings:
 * Pytest Unit Testing Framework
 * Logging and HTML reports
 * Page Object Design Pattern
